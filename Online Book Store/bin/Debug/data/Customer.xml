@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Customers>
+  <Customer RegistrationNumber="1">
+    <Name>admin</Name>
+    <Address>Eskişehir Osmangazi Üniversitesi</Address>
+    <Email>oceanbookstore2020@gmail.com</Email>
+    <Username>admin</Username>
+    <Password>8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918</Password>
+    <CustomerID>1</CustomerID>
+  </Customer>
+  <Customer RegistrationNumber="2">
+    <Name>Sina Kuşoğlu</Name>
+    <Address>Gölbaşı/Adıyaman</Address>
+    <Email>sinakusoglu@gmail.com</Email>
+    <Username>xaxe</Username>
+    <Password>7ea47bd1ed5f4fca0e671204d9513a9e556d84c03e682806e68faf9cbd0e1e8e</Password>
+    <CustomerID>2</CustomerID>
+  </Customer>
+  <Customer RegistrationNumber="3">
+    <Name>Yasemin Gerboğa</Name>
+    <Address>Amasya/Merkez</Address>
+    <Email>yasemingerboga@gmail.com</Email>
+    <Username>yasemin</Username>
+    <Password>79872ee7968f97bc50d2602fd4d93dc7bb736e8e1c9dd5398d208e6dcfdcfebe</Password>
+    <CustomerID>3</CustomerID>
+  </Customer>
+  <Customer RegistrationNumber="4">
+    <Name>Gökhan Samet Albayrak</Name>
+    <Address>Samsun/Bafra</Address>
+    <Email>gokhanalbayrak43@gmail.com</Email>
+    <Username>darkbo</Username>
+    <Password>a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3</Password>
+    <CustomerID>4</CustomerID>
+  </Customer>
+  <Customer RegistrationNumber="5">
+    <Name>Ismail Demircan</Name>
+    <Address>Muğla/Menteşe</Address>
+    <Email>ismaildemircann98@gmail.com</Email>
+    <Username>iso</Username>
+    <Password>a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3</Password>
+    <CustomerID>5</CustomerID>
+  </Customer>
+  <Customer RegistrationNumber="6">
+    <Name>Elif Esra Eker </Name>
+    <Address>Eskişehir/Odunpazarı</Address>
+    <Email>ekerelifesra@gmail.com</Email>
+    <Username>eküp</Username>
+    <Password>a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3</Password>
+    <CustomerID>6</CustomerID>
+  </Customer>
+  <Customer RegistrationNumber="7">
+    <Name>Yusuf Kartal</Name>
+    <Address>Eskişehir Osmangazi Üniversitesi</Address>
+    <Email>ykartal@ogu.edu.tr</Email>
+    <Username>ykartal</Username>
+    <Password>319c1901fa76332eb7910f262952302dec163c541fc4ecab9ae09ffb9a667ee1</Password>
+    <CustomerID>7</CustomerID>
+  </Customer>
+  <Customer RegistrationNumber="8">
+    <Name>Uğur Gürel</Name>
+    <Address>Eskişehir Osmangazi Üniversitesi</Address>
+    <Email>ugurel@ogu.edu.tr</Email>
+    <Username>ugurel</Username>
+    <Password>7062e15144b6c77a8f86f6ce2f2d399db1d1a2b5b1ef62276b2af48f49ffa302</Password>
+    <CustomerID>8</CustomerID>
+  </Customer>
+  <Customer RegistrationNumber="9">
+    <Name>Eyüp Çınar</Name>
+    <Address>Eskişehir Osmangazi Üniversitesi</Address>
+    <Email>eyup.cinar@ogu.edu.tr</Email>
+    <Username>ecinar</Username>
+    <Password>60c686129d5000884a3d5fb7aaed7d20f2bd9df23235d7ecd782425782406548</Password>
+    <CustomerID>9</CustomerID>
+  </Customer>
+  <Customer RegistrationNumber="10">
+    <Name>Muzaffer Arda Uslu</Name>
+    <Address>Niksar/Tokat</Address>
+    <Email>usluarda58@gmail.com</Email>
+    <Username>arda123</Username>
+    <Password>01ee8f3fdf19e94907a7f0e4e919527eebc31f329bc489871fc6470426b54d0a</Password>
+    <CustomerID>10</CustomerID>
+  </Customer>
+  <Customer RegistrationNumber="11">
+    <Name>Onur Akkenepek</Name>
+    <Address>Milas/Muğla</Address>
+    <Email>akkepenek38@gmail.com</Email>
+    <Username>akkenepek</Username>
+    <Password>1f5ab69384e4e78cbece3cd48e587c898f1749dea5949932f7bb90cb3ce348f5</Password>
+    <CustomerID>11</CustomerID>
+  </Customer>
+  <Customer RegistrationNumber="12">
+    <Name>Ayşe Demircan</Name>
+    <Address>Muğla/Menteşe</Address>
+    <Email>demircanayse48@gmail.com</Email>
+    <Username>ayse</Username>
+    <Password>a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3</Password>
+    <CustomerID>12</CustomerID>
+  </Customer>
+  <Customer RegistrationNumber="13">
+    <Name>mustafa </Name>
+    <Address>orhaniye</Address>
+    <Email>mustafacakir99@hotmail.com</Email>
+    <Username>mustafa</Username>
+    <Password>cac8c8ae28093f57543cae17bf66eaa686a2ec6f77a206332d0dc9603dc62ae1</Password>
+    <CustomerID>13</CustomerID>
+  </Customer>
+  <Customer RegistrationNumber="14">
+    <Name>durmuş</Name>
+    <Address>Karayolları Genel Müdürlüğü Şube 26</Address>
+    <Email>utkudireksiz48@gmail.com</Email>
+    <Username>halil</Username>
+    <Password>57d8d9460d4049d40cbfce8451b636ea52f06b067d17f2477c4cac7e879f7e17</Password>
+    <CustomerID>14</CustomerID>
+  </Customer>
+  <Customer RegistrationNumber="15">
+    <Name>Emre</Name>
+    <Address>Muğla</Address>
+    <Email>emrekurt4881@gmail.com</Email>
+    <Username>wolf48</Username>
+    <Password>5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5</Password>
+    <CustomerID>15</CustomerID>
+  </Customer>
+  <Customer RegistrationNumber="16">
+    <Name>Hüseyin</Name>
+    <Address>Muğla</Address>
+    <Email>kardeshuso48000@gmail.com</Email>
+    <Username>korkmazzhuseyin</Username>
+    <Password>91a73fd806ab2c005c13b4dc19130a884e909dea3f72d46e30266fe1a1f588d8</Password>
+    <CustomerID>16</CustomerID>
+  </Customer>
+  <Customer RegistrationNumber="17">
+    <Name>ali ihsan </Name>
+    <Address>obam sitesı mugla</Address>
+    <Email>demircanaliihsan1@gmail.com</Email>
+    <Username>48obam</Username>
+    <Password>a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3</Password>
+    <CustomerID>17</CustomerID>
+  </Customer>
+</Customers>
