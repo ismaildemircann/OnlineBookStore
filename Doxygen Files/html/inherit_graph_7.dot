@@ -1,0 +1,14 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="Online_Book_Store.Product",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_online___book___store_1_1_product.html",tooltip="This file includes to product information."];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="Online_Book_Store.Book",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_online___book___store_1_1_book.html",tooltip="This file includes to book information."];
+  Node0 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Online_Book_Store.Magazine",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_online___book___store_1_1_magazine.html",tooltip=" "];
+  Node0 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Online_Book_Store.MusicCD",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_online___book___store_1_1_music_c_d.html",tooltip=" "];
+}

@@ -1,0 +1,4 @@
+<map id="Online_Book_Store.Customer.IsValid" name="Online_Book_Store.Customer.IsValid">
+<area shape="rect" id="node1" title="This function is used to control user information." alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node2" href="$class_online___book___store_1_1_util_convert.html#a7a3f3fd4a8b6580c90ef337bf815814b" title="This function hashes an incoming string using the SHA256 hash algorithm. It is used to keep the given..." alt="" coords="252,5,456,47"/>
+</map>

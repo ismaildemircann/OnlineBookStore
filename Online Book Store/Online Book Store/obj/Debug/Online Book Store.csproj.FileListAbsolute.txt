@@ -1,0 +1,33 @@
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\bin\Debug\Online Book Store.exe.config
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\bin\Debug\Online Book Store.exe
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\bin\Debug\Online Book Store.pdb
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csprojAssemblyReference.cache
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.AdminBookScreen.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.AdminMagazineScreen.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.AdminMusicCDScreen.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.adminScreen.AdminOrderDesign.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.adminScreen.AdminOrderScreen.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.AdminScreen.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.BookDesign.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.BookScreen.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.shoppingCard.Invoice.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.ListProduct.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.LoginPassword.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.LoginScreen.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.LoginUsername.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.MagazinDesign.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.MagazineScreen.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.MusicCdDesign.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.MusicCdScreen.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.MyOrders.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.MyOrdersDesign.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.OceanBookStore.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.Properties.Resources.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.ShoppingCardForm.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.ShoppingList.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.SignUp.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.StoreMainScreen.resources
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csproj.GenerateResource.cache
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csproj.CopyComplete
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online Book Store.exe
+C:\Users\gokha\OneDrive\Masaüstü\152120171017_OnlineBookStoreProject\Online Book Store\Online Book Store\obj\Debug\Online Book Store.pdb

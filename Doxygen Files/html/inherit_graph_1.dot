@@ -1,0 +1,24 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node5 [label="UserControl",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node5 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="Online_Book_Store.adminScreen.\lAdminOrderDesign",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_online___book___store_1_1admin_screen_1_1_admin_order_design.html",tooltip=" "];
+  Node5 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="Online_Book_Store.BookDesign",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_online___book___store_1_1_book_design.html",tooltip="This file includes to cd information."];
+  Node5 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="Online_Book_Store.ListProduct",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_online___book___store_1_1_list_product.html",tooltip="This file includes list product operations for usercontrol."];
+  Node5 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="Online_Book_Store.LoginPassword",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_online___book___store_1_1_login_password.html",tooltip="This file includes login password operations."];
+  Node5 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="Online_Book_Store.LoginUsername",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_online___book___store_1_1_login_username.html",tooltip="This file includes login username operations."];
+  Node5 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="Online_Book_Store.Magazin\lDesign",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_online___book___store_1_1_magazin_design.html",tooltip="This file includes to magazine information."];
+  Node5 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="Online_Book_Store.MusicCd\lDesign",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_online___book___store_1_1_music_cd_design.html",tooltip="This file includes to cd information."];
+  Node5 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="Online_Book_Store.MyOrders\lDesign",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_online___book___store_1_1_my_orders_design.html",tooltip="This file includes order operations for usercontrol."];
+}

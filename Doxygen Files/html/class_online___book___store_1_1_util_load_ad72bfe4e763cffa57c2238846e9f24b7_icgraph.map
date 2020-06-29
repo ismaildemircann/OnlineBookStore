@@ -1,0 +1,5 @@
+<map id="Online_Book_Store.UtilLoad.LoadOrder" name="Online_Book_Store.UtilLoad.LoadOrder">
+<area shape="rect" id="node1" title="This function loads the elements of the MyOrders.xml file." alt="" coords="251,39,440,80"/>
+<area shape="rect" id="node2" href="$class_online___book___store_1_1_shopping_card.html#a8edb43d35caf5902e26c24f148195872" title="This function used to call order operations." alt="" coords="8,5,200,47"/>
+<area shape="rect" id="node3" href="$class_online___book___store_1_1_store_main_screen.html#ab2792a37c11cf776c7e2281fbcc2f8c6" title="This function is Constructor. This function is called to load the product list and order list." alt="" coords="5,71,203,112"/>
+</map>
