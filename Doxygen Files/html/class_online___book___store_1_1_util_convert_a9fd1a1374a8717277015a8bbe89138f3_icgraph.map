@@ -1,7 +1,0 @@
-<map id="Online_Book_Store.UtilConvert.Base64ToImage" name="Online_Book_Store.UtilConvert.Base64ToImage">
-<area shape="rect" id="node1" title="This function convert base 64 string to byte[]. After that Convert byte[] to Image." alt="" coords="516,27,720,69"/>
-<area shape="rect" id="node2" href="$class_online___book___store_1_1_util_load.html#af4799fb8655c3253f9a8d50c32685090" title="This function loads the elements of the ShoppingCard.xml file." alt="" coords="251,5,468,32"/>
-<area shape="rect" id="node3" href="$class_online___book___store_1_1_util_load.html#ad72bfe4e763cffa57c2238846e9f24b7" title="This function loads the elements of the MyOrders.xml file." alt="" coords="265,57,454,98"/>
-<area shape="rect" id="node4" href="$class_online___book___store_1_1_shopping_card.html#a8edb43d35caf5902e26c24f148195872" title="This function used to call order operations." alt="" coords="8,23,200,65"/>
-<area shape="rect" id="node5" href="$class_online___book___store_1_1_store_main_screen.html#ab2792a37c11cf776c7e2281fbcc2f8c6" title="This function is Constructor. This function is called to load the product list and order list." alt="" coords="5,89,203,130"/>
-</map>

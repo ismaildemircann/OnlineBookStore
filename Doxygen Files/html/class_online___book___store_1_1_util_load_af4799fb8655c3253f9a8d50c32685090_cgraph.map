@@ -1,5 +1,0 @@
-<map id="Online_Book_Store.UtilLoad.Load" name="Online_Book_Store.UtilLoad.Load">
-<area shape="rect" id="node1" title="This function loads the elements of the ShoppingCard.xml file." alt="" coords="5,46,223,73"/>
-<area shape="rect" id="node2" href="$class_online___book___store_1_1_util_convert.html#a9fd1a1374a8717277015a8bbe89138f3" title="This function convert base 64 string to byte[]. After that Convert byte[] to Image." alt="" coords="271,5,475,47"/>
-<area shape="rect" id="node3" href="$class_online___book___store_1_1_creator.html#af6b3a8b0b12f71947de68fbab26a9fac" title=" " alt="" coords="281,71,465,112"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="Online_Book_Store.UtilConvert.ComputeSha256Hash" name="Online_Book_Store.UtilConvert.ComputeSha256Hash">
-<area shape="rect" id="node1" title="This function hashes an incoming string using the SHA256 hash algorithm. It is used to keep the given..." alt="" coords="252,5,456,47"/>
-<area shape="rect" id="node2" href="$class_online___book___store_1_1_customer.html#af597a71f8dc3341a361a1f223f8d38f2" title="This function is used to control user information." alt="" coords="5,5,204,47"/>
-</map>

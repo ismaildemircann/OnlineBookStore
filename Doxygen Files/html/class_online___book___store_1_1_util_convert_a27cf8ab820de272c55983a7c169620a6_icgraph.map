@@ -1,7 +1,0 @@
-<map id="Online_Book_Store.UtilConvert.ImageToBase64" name="Online_Book_Store.UtilConvert.ImageToBase64">
-<area shape="rect" id="node1" title="This function convert from Image to base 64 string. After that convert Image to byte[]." alt="" coords="511,57,715,98"/>
-<area shape="rect" id="node2" href="$class_online___book___store_1_1_util_save.html#a1ee805aa16dafb36bb669426873f63ab" title="This function save elements of the ShoppingCard.xml file." alt="" coords="245,5,463,32"/>
-<area shape="rect" id="node3" href="$class_online___book___store_1_1_util_save.html#a280c53ab0e9d20052656b1d7cb977291" title="This function save elements of the MyOrders.xml file." alt="" coords="259,57,449,98"/>
-<area shape="rect" id="node5" href="$class_online___book___store_1_1_util_update.html#ac8df8675fdbb0819c2c830efe701fb58" title="This function update elements of the ProductList.xml file." alt="" coords="253,122,455,163"/>
-<area shape="rect" id="node4" href="$class_online___book___store_1_1_shopping_card.html#a8edb43d35caf5902e26c24f148195872" title="This function used to call order operations." alt="" coords="5,57,197,98"/>
-</map>
