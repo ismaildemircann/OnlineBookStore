@@ -27,9 +27,13 @@ enter correct e-mail address. The customer’s invoice will sent to customer’s
 # 2.1. UML
 ![Uml-img](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/UML.png)
 # 2.2. SAMPLE OUTPUT OF PROGRAM FOR SAMPLE INPUT 
+![Sign Up Screen](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/SIGN%20UP%20SCREEN.png)
+
 SIGN UP SCREEN
 
 This screen provides us sign up to the application
+
+![Login Screen](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/LOGIN%20SCREEN.png)
 
 LOGIN SCREEN
 
