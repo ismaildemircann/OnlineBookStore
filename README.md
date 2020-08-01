@@ -27,45 +27,59 @@ enter correct e-mail address. The customer’s invoice will sent to customer’s
 # 2.1. UML
 # 2.2. SAMPLE OUTPUT OF PROGRAM FOR SAMPLE INPUT 
 SIGN UP SCREEN
+
 This screen provides us sign up to the application
 
 LOGIN SCREEN
+
 This screen provides us login to the application
 
 BOOKS SCREEN
+
 This screen provides us list of books
 
 MAGAZINES SCREEN
+
 This screen provides us list of magazines.
 
 MUSICCD SCREEN
+
 This screen provides us list of musicCd
 
 SHOPPING LIST
+
 This screen shows shopping cart
 
 PAYMENT SCREEN
+
 This screen shows payment operations 
 
 VERIFICATION CODE IN MAIL
+
 This screen shows verification code that sent to the e-mail
 
 INVOICE PDF FILE IN MAIL
+
 This screen shows invoice information that sent to the e-mail
 
 MY ORDERS SCREEN
+
 This screen shows orders belong to customer
 
 ADMIN BOOKS SCREEN
+
 In this screen, admin can add, delete and update books.
 
 ADMIN MAGAZINES SCREEN
+
 In this screen, admin can add, delete and update magazines.
 
 ADMIN MUSICCD SCREEN
+
 In this screen, admin can add, delete and update musicCd
 
 ADMIN ORDERS SCREEN
+
 In this screen, admin can see all customer’s orders
 
 # 2.3. DESIGN PATTERN DESCRIPTION
