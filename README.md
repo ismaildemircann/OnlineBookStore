@@ -12,10 +12,7 @@
  Bitbucket Repository Link:
 https://bitbucket.org/oop2-group/online-book-store-oop2-proje/src/develop/
 
-## 1 - [INTRODUCTION](https://github.com/ismaildemircann/OnlineBookStore/blob/master/README.md#1---introduction-1)
-## 2 - [DESIGN]
-
-### 1 - INTRODUCTION
+## 1 - INTRODUCTION
 The project’s purpose is to gain the shopping experience to customer. The project’s idea is to
 purchase product from online shopping application. The customer logins to the application with
 username and password. The customer can examine product and it’s properties
@@ -26,15 +23,16 @@ customer must enter verification code that sent to e-mail address. Therefore the
 enter correct e-mail address. The customer’s invoice will sent to customer’s e-mail address in
 .pdf format. The customer can see cargo status and can see old orders.
 
-### 2. DESIGN
-#### 2.1. UML
+## 2. DESIGN
+### 2.1. UML
 ![Uml-img](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/UML.png)
-#### 2.2. SAMPLE OUTPUT OF PROGRAM FOR SAMPLE INPUT 
+### 2.2. SAMPLE OUTPUT OF PROGRAM FOR SAMPLE INPUT 
 ![Sign Up Screen](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/SIGN%20UP%20SCREEN.png)
 
 SIGN UP SCREEN
 
 This screen provides us sign up to the application
+
 
 ![Login Screen](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/LOGIN%20SCREEN.png)
 
@@ -42,55 +40,63 @@ LOGIN SCREEN
 
 This screen provides us login to the application
 
+
+![Books Screen](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/BOOKS%20SCREEN.png)
+
 BOOKS SCREEN
 
 This screen provides us list of books
 
-MAGAZINES SCREEN
 
-This screen provides us list of magazines.
-
-MUSICCD SCREEN
-
-This screen provides us list of musicCd
+![Shopping List](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/SHOPPING%20LIST.png)
 
 SHOPPING LIST
 
 This screen shows shopping cart
 
+
+![Payment Screen](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/PAYMENT%20SCREEN.png)
+
 PAYMENT SCREEN
 
 This screen shows payment operations 
+
+
+![VERIFICATION CODE IN MAIL](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/VERIFICATION%20CODE%20IN%20MAIL.png)
 
 VERIFICATION CODE IN MAIL
 
 This screen shows verification code that sent to the e-mail
 
+
+![INVOICE PDF FILE IN MAIL](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/INVOICE%20PDF%20FILE%20IN%20MAIL.png)
+
 INVOICE PDF FILE IN MAIL
 
 This screen shows invoice information that sent to the e-mail
+
+
+![MY ORDERS SCREEN](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/MY%20ORDERS%20SCREEN.png)
 
 MY ORDERS SCREEN
 
 This screen shows orders belong to customer
 
+
+![ADMIN BOOKS SCREEN](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/ADMIN%20BOOKS%20SCREEN.png)
+
 ADMIN BOOKS SCREEN
 
 In this screen, admin can add, delete and update books.
 
-ADMIN MAGAZINES SCREEN
 
-In this screen, admin can add, delete and update magazines.
-
-ADMIN MUSICCD SCREEN
-
-In this screen, admin can add, delete and update musicCd
+![ADMIN ORDERS SCREEN](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/ADMIN%20ORDERS%20SCREEN.png)
 
 ADMIN ORDERS SCREEN
 
 In this screen, admin can see all customer’s orders
 
-#### 2.3. DESIGN PATTERN DESCRIPTION
+### 2.3. DESIGN PATTERN DESCRIPTION
 Design patterns are an important part of object-oriented programming. We used two types of
 design patterns in this project.
 
