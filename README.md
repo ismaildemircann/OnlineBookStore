@@ -5,6 +5,9 @@ https://bitbucket.org/oop2-group/online-book-store-oop2-proje/src/develop/
 ## [1. INTRODUCTION](https://github.com/ismaildemircann/OnlineBookStore#1-introduction-1)
 ## [2. DESIGN](https://github.com/ismaildemircann/OnlineBookStore#2-design-1)
 ### [2.1. UML](https://github.com/ismaildemircann/OnlineBookStore#21-uml)
+### [2.2. SAMPLE OUTPUT OF PROGRAM FOR SAMPLE INPUT](https://github.com/ismaildemircann/OnlineBookStore#22-sample-output-of-program-for-sample-input)
+### [2.3. DESIGN PATTERN DESCRIPTION](https://github.com/ismaildemircann/OnlineBookStore#23-design-pattern-description)
+## [3. Authors](https://github.com/ismaildemircann/OnlineBookStore#3-authors)
 ## 1. INTRODUCTION
 The project’s purpose is to gain the shopping experience to customer. The project’s idea is to
 purchase product from online shopping application. The customer logins to the application with
