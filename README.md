@@ -29,70 +29,70 @@ enter correct e-mail address. The customer’s invoice will sent to customer’s
 ### 2.2. SAMPLE OUTPUT OF PROGRAM FOR SAMPLE INPUT 
 ![Sign Up Screen](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/SIGN%20UP%20SCREEN.png)
 
-SIGN UP SCREEN
+#### SIGN UP SCREEN
 
 This screen provides us sign up to the application
 
 
 ![Login Screen](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/LOGIN%20SCREEN.png)
 
-LOGIN SCREEN
+#### LOGIN SCREEN
 
 This screen provides us login to the application
 
 
 ![Books Screen](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/BOOKS%20SCREEN.png)
 
-BOOKS SCREEN
+#### BOOKS SCREEN
 
 This screen provides us list of books
 
 
 ![Shopping List](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/SHOPPING%20LIST.png)
 
-SHOPPING LIST
+#### SHOPPING LIST
 
 This screen shows shopping cart
 
 
 ![Payment Screen](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/PAYMENT%20SCREEN.png)
 
-PAYMENT SCREEN
+#### PAYMENT SCREEN
 
 This screen shows payment operations 
 
 
 ![VERIFICATION CODE IN MAIL](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/VERIFICATION%20CODE%20IN%20MAIL.png)
 
-VERIFICATION CODE IN MAIL
+#### VERIFICATION CODE IN MAIL
 
 This screen shows verification code that sent to the e-mail
 
 
 ![INVOICE PDF FILE IN MAIL](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/INVOICE%20PDF%20FILE%20IN%20MAIL.png)
 
-INVOICE PDF FILE IN MAIL
+#### INVOICE PDF FILE IN MAIL
 
 This screen shows invoice information that sent to the e-mail
 
 
 ![MY ORDERS SCREEN](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/MY%20ORDERS%20SCREEN.png)
 
-MY ORDERS SCREEN
+#### MY ORDERS SCREEN
 
 This screen shows orders belong to customer
 
 
 ![ADMIN BOOKS SCREEN](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/ADMIN%20BOOKS%20SCREEN.png)
 
-ADMIN BOOKS SCREEN
+#### ADMIN BOOKS SCREEN
 
 In this screen, admin can add, delete and update books.
 
 
 ![ADMIN ORDERS SCREEN](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/ADMIN%20ORDERS%20SCREEN.png)
 
-ADMIN ORDERS SCREEN
+#### ADMIN ORDERS SCREEN
 
 In this screen, admin can see all customer’s orders
 
