@@ -126,12 +126,8 @@ meal. When creating an object, we created a creator object and we created it wit
 we accessed object with virtual FactoryMethod () function by giving the type of our object.
 
 ## 3. Authors
-* İsmail Demircan
-
-* Gökhan Samet Albayrak
-
+* [Gökhan Samet Albayrak](https://github.com/gokhansamet)
+* [Yasemin Gerboğa](https://github.com/yasemingerboga)
+* [İsmail Demircan](https://github.com/ismaildemircann)
 * Elif Esra Eker
-
 * Sina Kuşoğlu
-
-* Yasemin Gerboğa
