@@ -12,7 +12,10 @@
  Bitbucket Repository Link:
 https://bitbucket.org/oop2-group/online-book-store-oop2-proje/src/develop/
 
-# 1. INTRODUCTION
+## 1 - [INTRODUCTION](https://github.com/ismaildemircann/OnlineBookStore/blob/master/README.md#1)
+
+
+### 1 - INTRODUCTION
 The project’s purpose is to gain the shopping experience to customer. The project’s idea is to
 purchase product from online shopping application. The customer logins to the application with
 username and password. The customer can examine product and it’s properties
