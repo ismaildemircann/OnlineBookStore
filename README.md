@@ -1,18 +1,8 @@
 # Online Book Store
-* İsmail Demircan
-
-* Gökhan Samet Albayrak
-
-* Elif Esra Eker
-
-* Sina Kuşoğlu
-
-* Yasemin Gerboğa
-
  Bitbucket Repository Link:
 https://bitbucket.org/oop2-group/online-book-store-oop2-proje/src/develop/
 
-## 1 - INTRODUCTION
+## 1. INTRODUCTION
 The project’s purpose is to gain the shopping experience to customer. The project’s idea is to
 purchase product from online shopping application. The customer logins to the application with
 username and password. The customer can examine product and it’s properties
@@ -125,3 +115,13 @@ meal. When creating an object, we created a creator object and we created it wit
 (BookFactory, MagazineFactory, MusicCdFactory). While accessing the information inside,
 we accessed object with virtual FactoryMethod () function by giving the type of our object.
 
+## 3. Authors
+* İsmail Demircan
+
+* Gökhan Samet Albayrak
+
+* Elif Esra Eker
+
+* Sina Kuşoğlu
+
+* Yasemin Gerboğa
