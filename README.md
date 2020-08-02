@@ -13,7 +13,7 @@
 https://bitbucket.org/oop2-group/online-book-store-oop2-proje/src/develop/
 
 ## 1 - [INTRODUCTION](https://github.com/ismaildemircann/OnlineBookStore/blob/master/README.md#1---introduction-1)
-
+## 2 - [DESIGN]
 
 ### 1 - INTRODUCTION
 The project’s purpose is to gain the shopping experience to customer. The project’s idea is to
@@ -26,10 +26,10 @@ customer must enter verification code that sent to e-mail address. Therefore the
 enter correct e-mail address. The customer’s invoice will sent to customer’s e-mail address in
 .pdf format. The customer can see cargo status and can see old orders.
 
-# 2. DESIGN
-# 2.1. UML
+### 2. DESIGN
+#### 2.1. UML
 ![Uml-img](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/UML.png)
-# 2.2. SAMPLE OUTPUT OF PROGRAM FOR SAMPLE INPUT 
+#### 2.2. SAMPLE OUTPUT OF PROGRAM FOR SAMPLE INPUT 
 ![Sign Up Screen](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/SIGN%20UP%20SCREEN.png)
 
 SIGN UP SCREEN
@@ -90,7 +90,7 @@ ADMIN ORDERS SCREEN
 
 In this screen, admin can see all customer’s orders
 
-# 2.3. DESIGN PATTERN DESCRIPTION
+#### 2.3. DESIGN PATTERN DESCRIPTION
 Design patterns are an important part of object-oriented programming. We used two types of
 design patterns in this project.
 
