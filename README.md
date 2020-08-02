@@ -22,6 +22,7 @@ enter correct e-mail address. The customer’s invoice will sent to customer’s
 #### SIGN UP SCREEN
 
 This screen provides us sign up to the application
+<hr>
 
 
 ![Login Screen](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/LOGIN%20SCREEN.png)
@@ -29,6 +30,7 @@ This screen provides us sign up to the application
 #### LOGIN SCREEN
 
 This screen provides us login to the application
+<hr>
 
 
 ![Books Screen](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/BOOKS%20SCREEN.png)
@@ -36,6 +38,7 @@ This screen provides us login to the application
 #### BOOKS SCREEN
 
 This screen provides us list of books
+<hr>
 
 
 ![Shopping List](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/SHOPPING%20LIST.png)
@@ -43,6 +46,7 @@ This screen provides us list of books
 #### SHOPPING LIST
 
 This screen shows shopping cart
+<hr>
 
 
 ![Payment Screen](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/PAYMENT%20SCREEN.png)
@@ -50,6 +54,7 @@ This screen shows shopping cart
 #### PAYMENT SCREEN
 
 This screen shows payment operations 
+<hr>
 
 
 ![VERIFICATION CODE IN MAIL](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/VERIFICATION%20CODE%20IN%20MAIL.png)
@@ -57,6 +62,7 @@ This screen shows payment operations
 #### VERIFICATION CODE IN MAIL
 
 This screen shows verification code that sent to the e-mail
+<hr>
 
 
 ![INVOICE PDF FILE IN MAIL](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/INVOICE%20PDF%20FILE%20IN%20MAIL.png)
@@ -64,6 +70,7 @@ This screen shows verification code that sent to the e-mail
 #### INVOICE PDF FILE IN MAIL
 
 This screen shows invoice information that sent to the e-mail
+<hr>
 
 
 ![MY ORDERS SCREEN](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/MY%20ORDERS%20SCREEN.png)
@@ -71,6 +78,7 @@ This screen shows invoice information that sent to the e-mail
 #### MY ORDERS SCREEN
 
 This screen shows orders belong to customer
+<hr>
 
 
 ![ADMIN BOOKS SCREEN](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/ADMIN%20BOOKS%20SCREEN.png)
@@ -78,6 +86,7 @@ This screen shows orders belong to customer
 #### ADMIN BOOKS SCREEN
 
 In this screen, admin can add, delete and update books.
+<hr>
 
 
 ![ADMIN ORDERS SCREEN](https://github.com/ismaildemircann/OnlineBookStore/blob/master/images/ADMIN%20ORDERS%20SCREEN.png)
@@ -85,6 +94,7 @@ In this screen, admin can add, delete and update books.
 #### ADMIN ORDERS SCREEN
 
 In this screen, admin can see all customer’s orders
+<hr>
 
 ### 2.3. DESIGN PATTERN DESCRIPTION
 Design patterns are an important part of object-oriented programming. We used two types of
