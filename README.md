@@ -136,4 +136,4 @@ we accessed object with virtual FactoryMethod () function by giving the type of 
 * [Yasemin Gerboğa](https://github.com/yasemingerboga)
 * [İsmail Demircan](https://github.com/ismaildemircann)
 * Elif Esra Eker
-* Sina Kuşoğlu
+* [Sina Kuşoğlu](https://github.com/xaxe-sk)
